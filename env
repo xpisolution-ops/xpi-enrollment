@@ -1,0 +1,12 @@
+APP_NAME="XPI Enrollment Command Center"
+APP_ENV=production
+APP_URL=https://portal.xpisolutions.com
+
+DB_DRIVER=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_NAME=u325637689_xpi_enrollment
+DB_USER=xpi_user
+DB_PASS=@XPI_Core!?9
+
+SESSION_NAME=xpi_enrollment_session
